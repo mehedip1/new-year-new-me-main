@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+}
+
+/* header and navigation styles */
+
+
+.title{
+    margin: 7px 50px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+}
+ 
+.btn{
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: orangered;
+}
+.banner{
+    margin: 7px 50px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+div li{
+    list-style: none;
+    font-size: 50px;
+}
+div title{
+    margin: 5px 50px;
+    display: flex;
+    
+}
+
+p{
+    font-size: 20px;
+    text-align: right;
+}
+.p-title{
+    color: black;
+    font-size: 18px;
+}
+.pt-title{
+    color: black;
+    font-size: 18px;
+}
+.section-title{
+    display: flex;
+}
+
+.skill-title{
+    font-weight: 600;
+    font-size: 20px;
+}
+.skill-des{
+    color: black;
+    gap: 5px;
+} 
+.watch{
+    background-image: url('../images/gradient2.png');
+    background-repeat: no-repeat;
+      
+} 
+.footer{
+    display: flex;
+    align-items: center;
+}
+.Icon{
+    display: flex;
+    align-items: center;
+}
